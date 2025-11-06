@@ -3,8 +3,8 @@
 
 ## Statements:
 - Statements are actions to be carried out.
-- set ==n== to ==7==
-- Define a function named ==greet==.
+- set `n` to `7`
+- Define a function named `greet`.
 
 ```python
     n = 7  # Variable assignment statement
@@ -27,3 +27,4 @@
 ```
 
 - Functional programming encourages the use of expressions.
+- Function calls are expressions cause they return a value that can be used, even function with no return statements return ==None==
