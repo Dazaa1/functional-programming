@@ -6,7 +6,7 @@ def stylize_title(document):
     Returns:
         str: The document with the styled title.
     """
-    return 
+    return add_border(center_title(document))
 
 
 # Don't touch below this line
