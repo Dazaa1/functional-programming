@@ -1,4 +1,11 @@
 def stylize_title(document):
+    """Applies styling to the title of the document.
+    Args:
+        document (str): The document string with a title.
+
+    Returns:
+        str: The document with the styled title.
+    """
     return 
 
 
