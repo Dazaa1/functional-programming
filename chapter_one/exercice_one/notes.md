@@ -12,7 +12,7 @@
     car.clean_windows()
 ```
 
-#### Functiona code:
+#### Functional code:
 ```python
     return clean_windows(add_gas(create_car()))
 ```
