@@ -7,12 +7,5 @@ def get_median_font_size(font_sizes):
     """
     if len(font_sizes) == 0:
         return None
+    return sorted(font_sizes)[(len(font_sizes) - 1) // 2]
 
-    sorted_list = sorted(font_sizes)
-    if len(sorted_list) % 2 != 0:
-        value = sorted_list[len(sorted_list) // 2]
-        return value
-
-    else:
-        value = sorted_list[(len(sorted_list) // 2) - 1]
-        return value
