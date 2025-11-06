@@ -27,4 +27,4 @@
 ```
 
 - Functional programming encourages the use of expressions.
-- Function calls are expressions cause they return a value that can be used, even function with no return statements return ==None==
+- Function calls are expressions cause they return a value that can be used, even function with no return statements return `None`
