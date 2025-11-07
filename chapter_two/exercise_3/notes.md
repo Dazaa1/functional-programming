@@ -18,7 +18,7 @@
     # 25
 ```
 
-## Higher-order functions:
+### Higher-order functions:
 ```python
     def square(x):
     return x * x
